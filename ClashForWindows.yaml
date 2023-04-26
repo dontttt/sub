@@ -106,7 +106,7 @@ i:
 proxy-providers:
   Subscribe:
     <<: *a1
-    url: https://sub.xeton.dev/sub?target=clash&url=请手动填入你的订阅[多链接用|分割]&list=true&udp=false 
+    url: https://sub.xeton.dev/sub?target=clash&url=https%3A%2F%2Fxn--4gq62f52gdss.com%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D4efbd76e5b66836c656c764c5cddd81d&list=true&udp=false 
     path: ./proxy_providers/tmp.yaml
 
 
